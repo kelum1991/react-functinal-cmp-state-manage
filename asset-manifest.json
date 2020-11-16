@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/kelum1991/react-functinal-cmp-state-manage/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/kelum1991/react-functinal-cmp-state-manage/static/js/main.5a2c3f95.chunk.js",
-    "main.js.map": "/kelum1991/react-functinal-cmp-state-manage/static/js/main.5a2c3f95.chunk.js.map",
-    "runtime-main.js": "/kelum1991/react-functinal-cmp-state-manage/static/js/runtime-main.5d275b5f.js",
-    "runtime-main.js.map": "/kelum1991/react-functinal-cmp-state-manage/static/js/runtime-main.5d275b5f.js.map",
-    "static/js/2.55705a2d.chunk.js": "/kelum1991/react-functinal-cmp-state-manage/static/js/2.55705a2d.chunk.js",
-    "static/js/2.55705a2d.chunk.js.map": "/kelum1991/react-functinal-cmp-state-manage/static/js/2.55705a2d.chunk.js.map",
-    "static/js/3.53ee8fbd.chunk.js": "/kelum1991/react-functinal-cmp-state-manage/static/js/3.53ee8fbd.chunk.js",
-    "static/js/3.53ee8fbd.chunk.js.map": "/kelum1991/react-functinal-cmp-state-manage/static/js/3.53ee8fbd.chunk.js.map",
+    "main.css": "/kelum1991/react-functinal-cmp-state-manage/static/css/main.77d87a02.chunk.css",
+    "main.js": "/kelum1991/react-functinal-cmp-state-manage/static/js/main.9f32b41e.chunk.js",
+    "main.js.map": "/kelum1991/react-functinal-cmp-state-manage/static/js/main.9f32b41e.chunk.js.map",
+    "runtime-main.js": "/kelum1991/react-functinal-cmp-state-manage/static/js/runtime-main.6a801450.js",
+    "runtime-main.js.map": "/kelum1991/react-functinal-cmp-state-manage/static/js/runtime-main.6a801450.js.map",
+    "static/js/2.2f23802c.chunk.js": "/kelum1991/react-functinal-cmp-state-manage/static/js/2.2f23802c.chunk.js",
+    "static/js/2.2f23802c.chunk.js.map": "/kelum1991/react-functinal-cmp-state-manage/static/js/2.2f23802c.chunk.js.map",
+    "static/js/3.0be359df.chunk.js": "/kelum1991/react-functinal-cmp-state-manage/static/js/3.0be359df.chunk.js",
+    "static/js/3.0be359df.chunk.js.map": "/kelum1991/react-functinal-cmp-state-manage/static/js/3.0be359df.chunk.js.map",
     "index.html": "/kelum1991/react-functinal-cmp-state-manage/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/kelum1991/react-functinal-cmp-state-manage/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.55705a2d.chunk.js.LICENSE.txt": "/kelum1991/react-functinal-cmp-state-manage/static/js/2.55705a2d.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/kelum1991/react-functinal-cmp-state-manage/static/media/logo.103b5fa1.svg"
+    "static/css/main.77d87a02.chunk.css.map": "/kelum1991/react-functinal-cmp-state-manage/static/css/main.77d87a02.chunk.css.map",
+    "static/js/2.2f23802c.chunk.js.LICENSE.txt": "/kelum1991/react-functinal-cmp-state-manage/static/js/2.2f23802c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5d275b5f.js",
-    "static/js/2.55705a2d.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.5a2c3f95.chunk.js"
+    "static/js/runtime-main.6a801450.js",
+    "static/js/2.2f23802c.chunk.js",
+    "static/css/main.77d87a02.chunk.css",
+    "static/js/main.9f32b41e.chunk.js"
   ]
 }
